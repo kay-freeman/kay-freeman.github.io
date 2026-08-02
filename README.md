@@ -14,6 +14,14 @@ The portfolio highlights my professional experience, technical capabilities, and
 
 ## Featured Systems
 
+### [FlowLens](https://github.com/kay-freeman/flowlens) — In Progress
+
+A configurable, self-hosted workflow-transformation platform designed to turn fragmented business processes into controlled, measurable workflows. Its completed analysis and design package includes current-state findings, stakeholder requirements, future-state design, traceability, a reusable data model, technical architecture, and integration contracts. Application implementation is now beginning.
+
+**Current status:** Product analysis and implementation-ready design complete. Application foundation in progress; no runnable release is available yet.
+
+**Demonstrates:** systems analysis, requirements engineering, workflow transformation, stakeholder alignment, data modeling, solution architecture, API and integration design, measurement strategy, and end-to-end product planning.
+
 ### [Incident Signal](https://github.com/kay-freeman/incident-signal)
 
 A configurable Python incident-detection system that analyzes support-ticket activity, separates distinct issue clusters, assigns explainable severity levels, and produces operational reports.
